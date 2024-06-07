@@ -1,0 +1,14 @@
+[
+    {
+        "nombre": "juan",
+        "dni": 4567890,
+        "salario": 500000,
+        "estado": true
+    },
+    {
+        "nombre": "maria",
+        "dni": 8567890,
+        "salario": 600000,
+        "estado": false
+    }
+]
